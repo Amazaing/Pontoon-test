@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:m="http://www.memsource.com/mxlf/2.0" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" m:version="2.12" m:level="1">
+<file original="240823_休闲三消_新增一条多语言需求(1).xlsx" source-language="zh" target-language="ja" datatype="x-undefined" m:task-id="82gil0DhMjI5pyoP0_dc4" m:file-format="BILING_XLS" m:project-uid="6h40pcR2YqmV5y3xHomcE3" m:job-uid="V2o30MvUvrjA2WJ80hYOme">
+<header>
+<in-ctx-preview-skel bilingual="true"><![CDATA[
+<html><head>
+<style>
+tr    {height: 20px;}
+tr.hidden {height: 0px;}
+tr.hidden td {padding: 0px; border-top: none; border-bottom: none;}
+th.hidden, td.hidden {width: 0px; padding: 0px;}
+.hidden_text {font-size: 0px; border-right: none;}
+table   {border: 1px solid black; border-top: none; border-left: none; border-collapse: collapse;}
+td   {border: 1px solid black; border-left: none;}
+th   {border: 1px solid black; border-top: none; border-left: none;}
+table td:first-child {text-align: center;}
+.comment {background-color: yellow; box-shadow: 2px 2px grey; margin: 3px}
+td.hidden_text .comment {margin: 0px}
+td  {vertical-align: middle; ; font-family: Calibri; ; font-size: 11pt; color: #000000; ; ; }
+.s64 {; font-family: Calibri; ; font-size: 11pt; color: #000000}
+.s65 {; font-family: 宋体; ; font-size: 11pt; color: #000000}
+.s66 {vertical-align: bottom; font-family: 微软雅黑; ; font-size: 11pt}
+.s67 {text-align: left; vertical-align: bottom; font-family: 微软雅黑; ; font-size: 11pt}
+.s68 {text-align: left; vertical-align: bottom; font-family: 微软雅黑; ; font-size: 11pt; color: #000000}
+</style><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta charset="UTF-8">
+</head><body><div style="font-weight: bold;">Sheet1</div><br><table>
+<tr><th></th><th style="min-width:112px">A</th><th style="min-width:201px">B</th><th style="min-width:457px">C</th><th style="min-width:423px">D</th><th style="min-width:354px">E</th><th style="min-width:64px">F</th><th style="min-width:64px">G</th><th style="min-width:64px">H</th><th style="min-width:64px">I</th><th style="min-width:64px">J</th><th style="min-width:64px">K</th><th style="min-width:64px">L</th><th style="min-width:64px">M</th><th style="min-width:64px">N</th><th style="min-width:64px">O</th></tr>
+<tr><td>1</td><td class="s64" title="A:1">序号</td><td class="s64" title="B:1">Key</td><td class="s64" title="C:1">中文</td><td class="s64" title="D:1">英文</td><td class="s65" title="E:1">德语</td><td class="s65" title="F:1">西语</td><td class="s65" title="G:1">法语</td><td class="s65" title="H:1">意大利语</td><td class="s65" title="I:1">葡语</td><td class="s65" title="J:1">俄语</td><td class="s65" title="K:1">日语</td><td class="s65" title="L:1">韩语</td><td class="s64" title="M:1">繁体中文</td><td></td><td></td></tr>
+<tr><td>2</td><td class="s66" title="A:2">1517</td><td class="s66" title="B:2">Level.Guide10049_1</td><td class="s66" title="C:2"><span id="m-tgroup_0_src" class="m-tgroup"></span></td><td class="s66" title="D:2">Use BOOSTERS to open the MILK CABINET and make matches next to it to collect MILK.</td><td></td><td></td><td></td><td></td><td></td><td></td><td class="s66" title="K:2"><span id="m-tgroup_0" class="m-tgroup"></span></td><td class="s66" title="L:2"></td><td></td><td></td><td></td></tr>
+<tr><td>3</td><td class="s66" title="A:3"></td><td class="s66" title="B:3"></td><td class="s66" title="C:3"></td><td class="s66" title="D:3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>4</td><td class="s66" title="A:4"></td><td class="s66" title="B:4"></td><td class="s66" title="C:4"></td><td class="s66" title="D:4"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>5</td><td class="s66" title="A:5"></td><td class="s66" title="B:5"></td><td class="s66" title="C:5"></td><td class="s66" title="D:5"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>6</td><td class="s66" title="A:6"></td><td class="s66" title="B:6"></td><td class="s66" title="C:6"></td><td class="s66" title="D:6"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>7</td><td class="s67" title="A:7"></td><td class="s67" title="B:7"></td><td class="s68" title="C:7"></td><td class="s67" title="D:7"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>8</td><td class="s67" title="A:8"></td><td class="s67" title="B:8"></td><td class="s68" title="C:8"></td><td class="s67" title="D:8"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>9</td><td class="s67" title="A:9"></td><td class="s67" title="B:9"></td><td class="s68" title="C:9"></td><td class="s67" title="D:9"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>10</td><td class="s67" title="A:10"></td><td class="s67" title="B:10"></td><td class="s68" title="C:10"></td><td class="s67" title="D:10"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11</td><td class="s67" title="A:11"></td><td class="s67" title="B:11"></td><td class="s68" title="C:11"></td><td class="s67" title="D:11"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12</td><td class="s67" title="A:12"></td><td class="s67" title="B:12"></td><td class="s68" title="C:12"></td><td class="s67" title="D:12"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13</td><td class="s67" title="A:13"></td><td class="s67" title="B:13"></td><td class="s68" title="C:13"></td><td class="s67" title="D:13"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>14</td><td class="s67" title="A:14"></td><td class="s67" title="B:14"></td><td class="s68" title="C:14"></td><td class="s67" title="D:14"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>15</td><td class="s67" title="A:15"></td><td class="s67" title="B:15"></td><td class="s68" title="C:15"></td><td class="s67" title="D:15"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16</td><td class="s67" title="A:16"></td><td class="s67" title="B:16"></td><td class="s68" title="C:16"></td><td class="s67" title="D:16"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>17</td><td class="s67" title="A:17"></td><td class="s67" title="B:17"></td><td class="s68" title="C:17"></td><td class="s67" title="D:17"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18</td><td class="s67" title="A:18"></td><td class="s67" title="B:18"></td><td class="s68" title="C:18"></td><td class="s67" title="D:18"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19</td><td class="s67" title="A:19"></td><td class="s67" title="B:19"></td><td class="s68" title="C:19"></td><td class="s67" title="D:19"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>20</td><td class="s67" title="A:20"></td><td class="s67" title="B:20"></td><td class="s68" title="C:20"></td><td class="s67" title="D:20"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>21</td><td class="s67" title="A:21"></td><td class="s67" title="B:21"></td><td class="s68" title="C:21"></td><td class="s67" title="D:21"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>22</td><td class="s67" title="A:22"></td><td class="s67" title="B:22"></td><td class="s68" title="C:22"></td><td class="s67" title="D:22"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>23</td><td class="s67" title="A:23"></td><td class="s67" title="B:23"></td><td class="s68" title="C:23"></td><td class="s67" title="D:23"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>24</td><td class="s67" title="A:24"></td><td class="s67" title="B:24"></td><td class="s68" title="C:24"></td><td class="s67" title="D:24"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>25</td><td class="s67" title="A:25"></td><td class="s67" title="B:25"></td><td class="s68" title="C:25"></td><td class="s67" title="D:25"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>26</td><td class="s67" title="A:26"></td><td class="s67" title="B:26"></td><td class="s68" title="C:26"></td><td class="s67" title="D:26"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>27</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>28</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>29</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>30</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table><br><hr><br></body></html>
+]]></in-ctx-preview-skel>
+</header>
+<body>
+<group id="0" m:para-id="0">
+<context-group>
+<context context-type="x-key">Sheet1::C:1</context>
+</context-group>
+<m:in-ctx-preview-metadata/>
+<trans-unit id="82gil0DhMjI5pyoP0_dc4:0" m:para-id="0" xml:space="preserve" m:score="0" m:gross-score="0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:created-at="1724204259900" m:created-by="331803" m:modified-at="1724204260337" m:modified-by="331803" m:level-edited="false">
+<source>使用增强棋子来打开牛奶柜，然后在牛奶柜旁边进行消除来收集牛奶吧！</source>
+<target>ブースターを使用してミルクケースを開けてからケースの隣で消去してミルクを集めよう！</target>
+<m:editing-stats>
+<m:thinking-time>6855</m:thinking-time>
+<m:editing-time>666403</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="331803" uid="bA5tE7kYP1h3hOEDNeUa36" username="lingmulishi" fullname="lishi lingmu"/>
+</m:users>
+</m:extra>
+</xliff>
